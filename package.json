@@ -20,5 +20,8 @@
     "mongoose": "^5.4.7",
     "nodemon": "^1.18.9",
     "react-transition-group": "^2.5.3"
+  },
+  "engines": {
+    "node": "10.15.0"
   }
 }
